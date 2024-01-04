@@ -1,10 +1,10 @@
-title: 윤장미  # You can add your name here
+title: 윤장미
 
 #logo: 1.png # Use a relative path to logo image 
 
-description: dev. data based # Fix hyphenation 
+description: dev. data based
 
-show_downloads: true # Fix spelling
+show_downloads: false
 
 theme: jekyll-theme-minimal 
 
