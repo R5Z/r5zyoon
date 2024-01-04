@@ -1,1 +1,14 @@
+title: 윤장미  # You can add your name here
 
+logo: 1.png # Use a relative path to logo image 
+
+description: dev. data based # Fix hyphenation 
+
+show_downloads: true # Fix spelling
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
+
+email: asaucybloom@gmail.com # Allow visitors to contact you
